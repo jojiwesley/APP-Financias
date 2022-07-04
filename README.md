@@ -20,6 +20,7 @@
 <h3>CSS<h3>
 <h3>React<h3>
 <h3>React-Native<h3>
+<h3>JavaScript<h3>
 
 <h2>ferramentas</h2>
 <h3>Moti<h3>
